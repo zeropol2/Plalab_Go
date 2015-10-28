@@ -4,7 +4,7 @@
 
 
 # Meeting
-* [2015. 10. 22 12시 00분 904BL](https://github.com/zeropol2/Plalab_Go/blob/master/20151022.md)
+* [2015. 10. 22 12시 00분 903BL](https://github.com/zeropol2/Plalab_Go/blob/master/20151022.md)
 
 # 학습방법
  * 메인 교재의 예제를 직접 따라한다.

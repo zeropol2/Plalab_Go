@@ -1,0 +1,25 @@
+package main
+
+import (
+    "code.google.com/p/go-tour/pic"
+    "math/rand"
+)
+
+func Pic(dx, dy int) [][]uint8 {
+    r := make([][]uint8, dy)
+
+    for index := range r {
+        r[index] = make([]uint8, dx)
+        
+        for index_inner := range r[index] {
+            r[index][index_inner] = uint8(rand.Int())
+        }
+    }
+    
+    return r
+}
+
+func main() {
+    pic.Show(Pic)
+}
+

@@ -7,6 +7,7 @@ import "math/cmplx"
 * 뉴턴의 방법 참고
 * https://en.wikipedia.org/wiki/Newton%27s_method
 * http://ntalbs.github.io/2014/07/25/newtons-method/
+* http://nosyu.pe.kr/1169
 * f(x) = x^3 - X 에서 시작.
 * xn+1 = xn - (xn^3 - X) / 3xn^2
 * 초기값은 1로

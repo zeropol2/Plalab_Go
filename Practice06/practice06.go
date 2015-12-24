@@ -4,6 +4,8 @@ import (
     "fmt"
 )
 
+/* http://go-tour-kr.appspot.com/#56 */
+
 type ErrNegativeSqrt float64
 
 func (e ErrNegativeSqrt) Error() string {

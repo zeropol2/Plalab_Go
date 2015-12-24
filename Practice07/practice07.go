@@ -27,14 +27,14 @@ func (s *Struct) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 func main() {
     // your http.Handle calls here
 
-	/* 
-	 * ListenAndServe, which is blocking. (BTW, if ListenAndServe didn't block, main would return and the process would exit)
-	 * Register the handlers before that. 
-	 */
-	http.Handle("/string", String("I'm a frayed knot."))
-	http.Handle("/struct", &Struct{"Hello", ":", "Gophers!"})
+    /* 
+    * ListenAndServe, which is blocking. (BTW, if ListenAndServe didn't block, main would return and the process would exit)
+    * Register the handlers before that. 
+    */
+    http.Handle("/string", String("I'm a frayed knot."))
+    http.Handle("/struct", &Struct{"Hello", ":", "Gophers!"})
 
-	// 2번째 인자 handler를 넘기게 되면 위 handler 등록이 의미 없어짐.
+    // 2번째 인자 handler를 넘기게 되면 위 handler 등록이 의미 없어짐.
     http.ListenAndServe("localhost:4000", nil)
     
 }

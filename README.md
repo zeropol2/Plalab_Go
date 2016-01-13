@@ -18,11 +18,11 @@
   1. [심화 연습: 복소수 세제곱근](http://go-tour-kr.appspot.com/#48) 박근일
   1. [연습: 에러](http://go-tour-kr.appspot.com/#56) 홍창우
   1. [연습: HTTP 핸들러](http://go-tour-kr.appspot.com/#58) 이근섭
-  1. [연습: 이미지](http://go-tour-kr.appspot.com/#60) 김필우
-  1. [연습: Rot13 Reader](http://go-tour-kr.appspot.com/#61) 권태희
-  1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#69) 김선희
-  1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#70) 김선희
-  1. [연습: 웹 크롤러](http://go-tour-kr.appspot.com/#71)
+  ~~1. [연습: 이미지](http://go-tour-kr.appspot.com/#60) 김필우~~
+  ~~1. [연습: Rot13 Reader](http://go-tour-kr.appspot.com/#61) 권태희~~
+  ~~1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#69) 김선희~~
+  ~~1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#70) 김선희~~
+  ~~1. [연습: 웹 크롤러](http://go-tour-kr.appspot.com/#71)~~
 
  
 

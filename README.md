@@ -10,19 +10,19 @@
  * 메인 교재의 예제를 직접 따라한다.
  * 각 챕터의 연습 문제를 풀고 해당 풀이는 이 Repository에 Push한다.
  
-# 연습문제 담당자
-  1. [연습: 루프와 함수](http://go-tour-kr.appspot.com/#23) 김대황
-  1. [연습: 슬라이스](http://go-tour-kr.appspot.com/#36) 한유선
-  1. [연습: 맵](http://go-tour-kr.appspot.com/#41) 김성호
-  1. [연습: 피보나치 클로져](http://go-tour-kr.appspot.com/#44) 김수석
-  1. [심화 연습: 복소수 세제곱근](http://go-tour-kr.appspot.com/#48) 박근일
-  1. [연습: 에러](http://go-tour-kr.appspot.com/#56) 홍창우
-  1. [연습: HTTP 핸들러](http://go-tour-kr.appspot.com/#58) 이근섭
-  ~~1. [연습: 이미지](http://go-tour-kr.appspot.com/#60) 김필우~~
-  ~~1. [연습: Rot13 Reader](http://go-tour-kr.appspot.com/#61) 권태희~~
-  ~~1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#69) 김선희~~
-  ~~1. [연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#70) 김선희~~
-  ~~1. [연습: 웹 크롤러](http://go-tour-kr.appspot.com/#71)~~
+# 연습문제
+  1. [연습: 루프와 함수](http://go-tour-kr.appspot.com/#23)
+  1. [연습: 슬라이스](http://go-tour-kr.appspot.com/#36)
+  1. [연습: 맵](http://go-tour-kr.appspot.com/#41)
+  1. [연습: 피보나치 클로져](http://go-tour-kr.appspot.com/#44)
+  1. [심화 연습: 복소수 세제곱근](http://go-tour-kr.appspot.com/#48)
+  1. [연습: 에러](http://go-tour-kr.appspot.com/#56)
+  1. [연습: HTTP 핸들러](http://go-tour-kr.appspot.com/#58) 
+  1. ~~[연습: 이미지](http://go-tour-kr.appspot.com/#60)~~
+  1. ~~[연습: Rot13 Reader](http://go-tour-kr.appspot.com/#61)~~
+  1. ~~[연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#69)~~
+  1. ~~[연습: 동등한 이진 트리](http://go-tour-kr.appspot.com/#70)~~
+  1. ~~[연습: 웹 크롤러](http://go-tour-kr.appspot.com/#71)~~
 
  
 
